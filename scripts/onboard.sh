@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Webling Studio developer onboarding script.
-# Clones the webling-config repo to ~/.webling and configures the webling-claude alias.
+# Clones the webling-standards repo to ~/.webling and configures the webling-claude alias.
 # Safe to run multiple times — all steps are idempotent.
 
 set -euo pipefail

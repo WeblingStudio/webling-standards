@@ -26,3 +26,5 @@
 - [ ] Tests added or updated for affected behavior
 - [ ] `.env.example` updated if new environment variables were added
 - [ ] No secrets, tokens, or credentials committed
+- [ ] Clockify timer stopped for this work item
+- [ ] Jira work item moved to **Peer Review**

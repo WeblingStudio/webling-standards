@@ -1,25 +1,16 @@
 ---
-name: Feature Request / Story
-about: Describe a user experience or capability to be implemented
+name: Feature Request
+about: Suggest a new capability or improvement
 labels: story
 ---
 
-## Jira Ticket
-[PROJ-000](https://weblingstudio.atlassian.net/jira/software/projects/KEY/issues/PROJ-000)
+## What would you like?
+As a **[type of user]**, I want to **[goal]** so that **[reason / value]**.
 
 
-## User Story
-As a [type of user], I want to [goal] so that [reason / value].
+## Why is this valuable?
+[What problem does this solve, or what opportunity does it create?]
 
 
-## Acceptance Criteria
-- [ ] [Condition that must be true for this story to be considered complete]
-- [ ] [Another condition]
-
-
-## Out of Scope
-[Explicitly state what this request does NOT cover to prevent scope creep.]
-
-
-## Notes
-[Links to designs, Confluence pages, client discovery notes, or related issues.]
+## Additional Context
+[Screenshots, examples, links to similar features elsewhere, or anything else that helps communicate the idea.]

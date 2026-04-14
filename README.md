@@ -1,6 +1,6 @@
 # webling-standards
 
-Shared development standards, conventions, and project scaffolding for [Webling Studio](https://github.com/WeblingStudio).
+Shared development standards, conventions, and project scaffolding for [Webling Studio](https://www.weblingstudio.com/).
 
 This repository is the single source of truth for how Webling Studio writes, reviews, and ships code. It is public and open source — we believe transparent engineering practices build trust.
 

@@ -5,7 +5,7 @@
 
 set -euo pipefail
 
-REPO_URL="git@github.com:WeblingStudio/webling-config.git"
+REPO_URL="https://github.com/WeblingStudio/webling-standards.git"
 INSTALL_DIR="$HOME/.webling"
 ALIAS_DEF="alias webling-claude='git -C ~/.webling pull --quiet && claude --append-system-prompt-file ~/.webling/CONVENTIONS.md'"
 
@@ -28,7 +28,7 @@ if [ -d "$INSTALL_DIR/.git" ]; then
   info "Updating existing repo at $INSTALL_DIR"
   git -C "$INSTALL_DIR" pull --quiet
 else
-  info "Cloning webling-config to $INSTALL_DIR"
+  info "Cloning standards to $INSTALL_DIR"
   git clone --quiet "$REPO_URL" "$INSTALL_DIR"
 fi
 
